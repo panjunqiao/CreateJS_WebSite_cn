@@ -226,9 +226,557 @@
       </section>
     </div>
 
+    <div id="community">
+      <section class="community_container">
+        <h3>参加讨论</h3>
+        <div class="fourButtons">
+          <a
+            href="http://reddit.com/r/CreateJS"
+            class="link-default-invert link-reddit img svg"
+            >讨论</a
+          >
+          <a
+            href="http://plus.google.com/communities/113475154727121541523"
+            class="link-default-invert link-googleplus img svg"
+            >社区</a
+          >
+          <a
+            href="https://github.com/CreateJS"
+            class="link-default-invert link-github img svg"
+            >ISSUES</a
+          >
+          <a
+            href="http://stackoverflow.com/questions/tagged/createjs"
+            class="link-default-invert link-stackoverflow img svg"
+            >问题</a
+          >
+        </div>
+      </section>
+      <!-- /container -->
+    </div>
+
+    <div id="projects">
+      <div class="projects_container">
+        <div class="projects_list" style="right: 0px" ref="chart_list">
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://supercrowds.co/who/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/supercrowds.png') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="https://supercrowds.co/who/"
+                  >Super Crowds</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Super Crowds inc. is a creative firm located in Tokyo, where
+                unique talent with various skills gather to create.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://snp.agency/en"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/saltpepper.png') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="https://snp.agency/en"
+                  >Salt &amp; Pepper</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                A digital agency specializing in Ruby on Rails, Consulting, and
+                Development
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://resn.co.nz/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/resn.png') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="https://resn.co.nz/"
+                  >Resn. Infecting your Screen</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Resn is a creative digital agency infecting minds with gooey
+                interactive experiences and digital stories.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://www.toverland.com/attractiepark/plattegrond/"
+                style="
+                  background-image: url(/assets/images/projects/plattegrond.jpg);
+                "
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="https://www.toverland.com/attractiepark/plattegrond/"
+                  >Plattegrond</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Ga op avontuur in onze magische werelden en beleef een
+                onvergetelijke dag in Toverland!
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://www.insidepete.com/home/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/insidepete.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="http://www.insidepete.com/home/"
+                  >Inside Pete</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Dive deep into the ever expanding body of a middle aged man and
+                create a microscopic army to clean up an unhealthy body from the
+                inside.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://www.google.com/doodles/celebrating-garden-gnomes"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/gardengnomes.gif') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="https://www.google.com/doodles/celebrating-garden-gnomes"
+                  >Celebrating Garden Gnomes</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Fill your gnome garden with  in today's #GoogleDoodle!
+                #GnomeDoodle
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://www.google.com/doodles/fourth-of-july-2018"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/fourthofjuly.gif') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="https://www.google.com/doodles/fourth-of-july-2018"
+                  >Google Fourth of July Doodle</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Happy Fourth of July! #GoogleDoodle
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="https://www.ana-cooljapan.com/contents/craftsmanship/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/craftsmanship.png') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="https://www.ana-cooljapan.com/contents/craftsmanship/"
+                  >CRAFTSMANSHIP: Is Japan Cool?</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                Japanese craftsmanship is a way of life for artisans who
+                continue faithfully making their traditional crafts while
+                devoting themselves to enhancing their skills.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://andyfoulds.co.uk/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/andyfoulds.png') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://andyfoulds.co.uk/"
+                  >Andy Foulds</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href=""></a>
+              </p>
+              <p class="project_description">
+                The Award-winning Interactive Design Portfolio of Freelance Web
+                Designer Andy Foulds
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://coguz.com"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/coguz.png') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://coguz.com">Coguz</a>
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://coguz.com"
+                  >Cankat Oguz</a
+                >
+              </p>
+              <p class="project_description">
+                Coguz is the personal presentation of Cankat Oguz through the
+                random scenes of subconscious.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://mcwhopper.com/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/mcwhopper.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://mcwhopper.com/"
+                  >McWhopper</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://bk.com/"
+                  >Burger King</a
+                >
+              </p>
+              <p class="project_description">
+                For Peace Day, Burger King made an unprecedented peace proposal
+                to McDonald's - to join forces and create the McWhopper.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://www.martin-h.com/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/martinh.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://www.martin-h.com/"
+                  >MARTIN H WEFAIL</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://wefail.com/"
+                  >WEFAIL</a
+                >
+              </p>
+              <p class="project_description">
+                A portfolio site, and bizarre interactive experience by Martin
+                Hughes, web designer to the stars.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://wildflower.resn.co.nz/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/wildflower.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="http://wildflower.resn.co.nz/"
+                  >Wildflower</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://resn.co.nz/">Resn</a>
+              </p>
+              <p class="project_description">
+                Express your true feelings by sending a unique wildflower on
+                Valentine's Day.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://dragonagekeep.com/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/dragonagekeep.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://dragonagekeep.com/"
+                  >Interactive Story Summary</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://bioware.com"
+                  >BioWare</a
+                >
+              </p>
+              <p class="project_description">
+                The Dragon Age Keep helps players form their own world states
+                for Dragon Age: Inquisition. The ISS is a cinematic summary of
+                the player's story, spanning the times of the first 2 games.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://cardsagainsthumanity.com/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/cah.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="http://cardsagainsthumanity.com/"
+                  >Cards Against Humanity</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a
+                  class="link-inline-invert"
+                  href="http://cardsagainsthumanity.com"
+                  >Cards Against Humanity LLC</a
+                >
+              </p>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://benhantoot.com/"
+                  >Ben Hantoot</a
+                >
+              </p>
+              <p class="project_description">
+                Unlike most of the party games you've played before, Cards
+                Against Humanity is as despicable and awkward as you and your
+                friends.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://screentoys.com"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/odd-couple.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://screentoys.com"
+                  >The Odd Couples</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://andyfoulds.co.uk"
+                  >Andy Foulds</a
+                >
+              </p>
+              <p class="project_description">
+                Blend famous faces into strange creatures, drag them around and
+                send your creations to friends. FWA Site of the day for June 03
+                2013.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://wefail.com"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/wefail.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a class="link-inline-invert" href="http://wefail.com"
+                  >Wefail.com</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://wefail.com"
+                  >Wefail</a
+                >
+              </p>
+              <p class="project_description">
+                Relaunching their iconic site in HTML5, Wefail is able to
+                unleash their unique style once again to unsuspecting masses.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://pbskids.org/wildkratts/games/monkey-mayhem/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/platypus-monkey.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="http://pbskids.org/wildkratts/games/monkey-mayhem/"
+                  >Platypus Game Engine</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a
+                  class="link-inline-invert"
+                  href="http://gopherwoodstudios.com/"
+                  >Gopherwood Studios</a
+                >
+              </p>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://pbskids.org/"
+                  >PBS Kids</a
+                >
+              </p>
+              <p class="project_description">
+                An open source game engine built with CreateJS. Check out their
+                first game, Wild Kratts Monkey Mayhem.
+              </p>
+            </div>
+          </div>
+          <div class="project">
+            <div class="project_image">
+              <a
+                class="project_link"
+                href="http://b10b.com/iondrift/epsilon/html5-createjs/"
+                :style="{backgroundImage: 'url(' + require('@/assets/images/projects/b10b-epsilon.jpg') + ')'}"
+              ></a>
+            </div>
+            <div class="project_text">
+              <h4 class="project_title">
+                <a
+                  class="link-inline-invert"
+                  href="http://b10b.com/iondrift/epsilon/html5-createjs/"
+                  >Ion Drift</a
+                >
+              </h4>
+              <p class="project_credits">
+                <a class="link-inline-invert" href="http://b10b.com/">b10b</a>
+              </p>
+              <p class="project_description">
+                A port of the Animate game Ion Drift, b10b was able to build a
+                CreateJS version in less than a day that hit target framerates
+                on even the lowest devices, and outperformed ports to other
+                libraries.
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- /list -->
+
+        <div class="projects_controls" ref="chart">
+          <div class="scroll-left" style="display: none"></div>
+          <div class="scroll-right" style="display: block" v-on:click="onScrollRight"></div>
+          <ul class="projects_pagination">
+            <li class="pagination_item active" data-page-id="1"></li>
+            <li class="pagination_item" data-page-id="2"></li>
+            <li class="pagination_item" data-page-id="3"></li>
+            <li class="pagination_item" data-page-id="4"></li>
+            <li class="pagination_item" data-page-id="5"></li>
+            <li class="pagination_item" data-page-id="6"></li>
+            <li class="pagination_item" data-page-id="7"></li>
+            <li class="pagination_item" data-page-id="8"></li>
+            <li class="pagination_item" data-page-id="9"></li>
+            <li class="pagination_item" data-page-id="10"></li>
+          </ul>
+          <!-- placeholder, populated by JS -->
+        </div>
+        <!-- /controls -->
+      </div>
+      <!-- /container -->
+    </div>
+
     <footer id="footer" class="banner_bg-createjs footer-large">
       <div class="bgImage img svg"></div>
-      
+
       <section>
         <div class="home_footer_logo img svg"></div>
         <div>
@@ -249,7 +797,10 @@ import { Options, Vue } from "vue-class-component";
   },
 })
 export default class Home extends Vue {
-    
+  private onScrollRight() {
+    let chart:any=this.$refs.chart;
+    console.dir(chart.clientWidth);
+  }
 }
 </script>
 <style scoped>

@@ -1,7 +1,7 @@
 <template>
 <!-- <Home/> -->
-  <!-- <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/> -->
+  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
+  <!-- <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/> -->
   <router-view />
   <div id="backToTop" class="" v-on:click="backToTop">Top</div><!-- sticky -->
 </template>
