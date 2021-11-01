@@ -1,0 +1,127 @@
+[
+    {
+        "img":"./images/projects/supercrowds.png",
+        "url":"https://supercrowds.co/who/",
+        "title":"Super Crowds",
+        "description":"Super Crowds inc. is a creative firm located in Tokyo, where unique talent with various skills gather to create."
+    },{
+        "img":"./images/projects/saltpepper.png",
+        "url":"https://snp.agency/en",
+        "title":"Salt &amp; Pepper",
+        "description":"A digital agency specializing in Ruby on Rails, Consulting, and Development."
+    },{
+        "img":"./images/projects/resn.png",
+        "url":"https://resn.co.nz/",
+        "title":"Resn. Infecting your Screen",
+        "description":"Resn is a creative digital agency infecting minds with gooey interactive experiences and digital stories."
+    },{
+        "img":"./images/projects/plattegrond.jpg",
+        "url":"https://www.toverland.com/attractiepark/plattegrond/",
+        "title":"Plattegrond",
+        "description":"Ga op avontuur in onze magische werelden en beleef een onvergetelijke dag in Toverland!"
+    },{
+        "img":"./images/projects/insidepete.jpg",
+        "url":"http://www.insidepete.com/home/",
+        "title":"Inside Pete",
+        "description":"Dive deep into the ever expanding body of a middle aged man and create a microscopic army to clean up an unhealthy body from the inside."
+    },{
+        "img":"./images/projects/gardengnomes.gif",
+        "url":"https://www.google.com/doodles/celebrating-garden-gnomes",
+        "title":"Celebrating Garden Gnomes",
+        "description":"Fill your gnome garden with  in today's #GoogleDoodle!\n#GnomeDoodle"
+    },{
+        "img":"./images/projects/fourthofjuly.gif",
+        "url":"https://www.google.com/doodles/fourth-of-july-2018",
+        "title":"Google Fourth of July Doodle",
+        "description":"Happy Fourth of July!\n#GoogleDoodle"
+    },{
+        "img":"./images/projects/craftsmanship.png",
+        "url":"https://www.ana-cooljapan.com/contents/craftsmanship/",
+        "title":"CRAFTSMANSHIP: Is Japan Cool?",
+        "description":"Japanese craftsmanship is a way of life for artisans who continue faithfully making their traditional crafts while devoting themselves to enhancing their skills."
+    },{
+        "img":"./images/projects/andyfoulds.png",
+        "url":"http://andyfoulds.co.uk/",
+        "title":"Andy Foulds",
+        "description":"The Award-winning Interactive Design Portfolio of Freelance Web Designer Andy Foulds"
+    },{
+        "img":"./images/projects/coguz.png",
+        "url":"http://coguz.com",
+        "title":"Cankat Oguz",
+        "description":"Coguz is the personal presentation of Cankat Oguz through the random scenes of subconscious."
+    },{
+        "img":"./images/projects/mcwhopper.jpg",
+        "url":"http://mcwhopper.com/",
+        "title":"McWhopper",
+        "description":"Coguz is the personal presentation of Cankat Oguz through the random scenes of subconscious.",
+        "credits":[
+            {"txt":"Burger King","url":"http://bk.com/"}
+        ]
+    },{
+        "img":"./images/projects/martinh.jpg",
+        "url":"http://www.martin-h.com/",
+        "title":"MARTIN H WEFAIL",
+        "description":"A portfolio site, and bizarre interactive experience by Martin Hughes, web designer to the stars.",
+        "credits":[
+            {"txt":"WEFAIL","url":"http://wefail.com/"}
+        ]
+    },{
+        "img":"./images/projects/wildflower.jpg",
+        "url":"http://wildflower.resn.co.nz/",
+        "title":"Wildflower",
+        "description":"Express your true feelings by sending a unique wildflower on Valentine's Day.",
+        "credits":[
+            {"txt":"Resn","url":"http://resn.co.nz/"}
+        ]
+    },{
+        "img":"./images/projects/dragonagekeep.jpg",
+        "url":"http://dragonagekeep.com/",
+        "title":"Interactive Story Summary",
+        "description":"The Dragon Age Keep helps players form their own world states for Dragon Age: Inquisition. The ISS is a cinematic summary of the player's story, spanning the times of the first 2 games.",
+        "credits":[
+            {"txt":"BioWare","url":"http://bioware.com"}
+        ]
+    },{
+        "img":"./images/projects/cah.jpg",
+        "url":"http://cardsagainsthumanity.com/",
+        "title":"Cards Against Humanity",
+        "description":"The Dragon Age Keep helps players form their own world states for Dragon Age: Inquisition. The ISS is a cinematic summary of the player's story, spanning the times of the first 2 games.",
+        "credits":[
+            {"txt":"Cards Against Humanity LLC","url":"http://cardsagainsthumanity.com"},
+            {"txt":"Ben Hantoot","url":"http://benhantoot.com/"}
+        ]
+    },{
+        "img":"./images/projects/odd-couple.jpg",
+        "url":"http://screentoys.com",
+        "title":"The Odd Couples",
+        "description":"Blend famous faces into strange creatures, drag them around and send your creations to friends. FWA Site of the day for June 03 2013.",
+        "credits":[
+            {"txt":"Andy Foulds","url":"http://andyfoulds.co.uk"}
+        ]
+    },{
+        "img":"./images/projects/wefail.jpg",
+        "url":"http://wefail.com",
+        "title":"Wefail.com",
+        "description":"Relaunching their iconic site in HTML5, Wefail is able to unleash their unique style once again to unsuspecting masses.",
+        "credits":[
+            {"txt":"Wefail","url":"http://wefail.com"}
+        ]
+    },{
+        "img":"./images/projects/platypus-monkey.jpg",
+        "url":"http://pbskids.org/wildkratts/games/monkey-mayhem/",
+        "title":"Platypus Game Engine",
+        "description":"An open source game engine built with CreateJS. Check out their first game, Wild Kratts Monkey Mayhem.",
+        "credits":[
+            {"txt":"Gopherwood Studios","url":"http://gopherwoodstudios.com/"},
+            {"txt":"PBS Kids","url":"http://pbskids.org/"}
+        ]
+    },{
+        "img":"./images/projects/b10b-epsilon.jpg",
+        "url":"http://b10b.com/iondrift/epsilon/html5-createjs/",
+        "title":"Ion Drift",
+        "description":"A port of the Animate game Ion Drift, b10b was able to build a CreateJS version in less than a day that hit target framerates on even the lowest devices, and outperformed ports to other libraries.",
+        "credits":[
+            {"txt":"b10b","url":"http://b10b.com/"}
+        ]
+    }
+]
